@@ -44,6 +44,8 @@ The database table used in this project has thw two tables
 
 
 
+![Screenshot (570)](https://github.com/pratikshaghotkar15/Backend-Taskmanagement/assets/99399335/ac178a97-b2a6-49c2-8897-ae7be272cf99)
+![Screenshot (571)](https://github.com/pratikshaghotkar15/Backend-Taskmanagement/assets/99399335/7b92e4fd-f346-4d83-82ac-12f008f217bb)
 
 
 
